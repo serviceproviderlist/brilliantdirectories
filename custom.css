@@ -1,0 +1,23 @@
+
+.form-inline {
+  position: relative;
+  top: 25px;
+}
+
+.img_section,
+#link341,
+#link343,
+#member_login > div.login-cta-buttons,
+#first_container > div > div.row.content_w_sidebar.member_profile > div.col-md-9 > div.row.member-profile-header > div.col-xs-12.col-sm-3.norpad.text-center.xs-nopad.xs-bmargin,
+.hidden
+{
+	display: none;
+}
+
+
+#link342 {
+    background-color: rgba(37, 62, 134,0.97);
+    border: 1px solid rgb(37, 62, 134);
+    color: rgb(255, 255, 255);
+	padding: 10px;
+}
